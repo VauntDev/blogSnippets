@@ -1,0 +1,12 @@
+syntax = "proto3";
+option go_package = "github.com/VauntDev/blogSnippets/apps/todo/pb";
+package pb;
+
+message Todo {
+    string id = 1;
+    string title = 2;
+    string description = 3;
+    bool   complete = 4;
+    string created_at = 5;
+    string updated_at = 6;
+}
