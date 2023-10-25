@@ -1,7 +1,7 @@
-github.com/VauntDev/glhf v0.0.3 h1:YvR63qsRAaVJiRyW+43iz/FbjSM7EEfY9xSmsEXNsK4=
-github.com/VauntDev/glhf v0.0.3/go.mod h1:0SrR7PuCNrIOce+dxGJzXS6zR6Z6EPWdt8E/GMDDIEQ=
-github.com/VauntDev/tqla v0.0.0-20231016155458-a505d92ec874 h1:lFs5UF4KRs3rkf9keWMIdAncfYt3zrqDXWtzzIBJvqQ=
-github.com/VauntDev/tqla v0.0.0-20231016155458-a505d92ec874/go.mod h1:cwJGFN9JyZ/4kROc3jyR3TgW4OulSACJDH1qinWcuu8=
+github.com/VauntDev/glhf v0.0.4 h1:2OQzGDr8ZeUV4XGI2KqfIgX8v2m2K692u1pLvogED3M=
+github.com/VauntDev/glhf v0.0.4/go.mod h1:0SrR7PuCNrIOce+dxGJzXS6zR6Z6EPWdt8E/GMDDIEQ=
+github.com/VauntDev/tqla v0.0.1 h1:NVoNgY+qIRzG2j+Kw6DyLfE274lvQBV9zV8e1BaJXrM=
+github.com/VauntDev/tqla v0.0.1/go.mod h1:cwJGFN9JyZ/4kROc3jyR3TgW4OulSACJDH1qinWcuu8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
